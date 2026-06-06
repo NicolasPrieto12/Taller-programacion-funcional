@@ -17,6 +17,4 @@ public class FiltrarPorLetraInicial {
         System.out.println(ejercicio.filtrarPorLetraInicial());   
     }
 
- 
-     
 }
